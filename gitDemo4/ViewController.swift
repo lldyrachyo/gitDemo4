@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         print("Hi!")
         print("feature Y")
         print("feature yy")
+        print("release Y-feature")
     }
 
 
