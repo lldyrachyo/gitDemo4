@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Hi!")
         print("feature Y")
+        print("release Y-feature")
     }
 
 
